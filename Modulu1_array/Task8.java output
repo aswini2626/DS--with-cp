@@ -1,1 +1,8 @@
+Forward: [10,20,30]
+Adding 5 to First and 15 at index 2:
+Forward: [5,10,15,20,30]
+Removing First and Last:
+Forward: [10,15,20]
+Removing at index 1:
+Forward: [10,20]
 
